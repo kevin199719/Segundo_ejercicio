@@ -1,0 +1,27 @@
+C:\Users\kevin\source\repos\Semana 2 clase 1\Semana 2 clase 1\bin\Debug\netcoreapp3.1\Semana 2 clase 1.exe
+C:\Users\kevin\source\repos\Semana 2 clase 1\Semana 2 clase 1\bin\Debug\netcoreapp3.1\Semana 2 clase 1.deps.json
+C:\Users\kevin\source\repos\Semana 2 clase 1\Semana 2 clase 1\bin\Debug\netcoreapp3.1\Semana 2 clase 1.runtimeconfig.json
+C:\Users\kevin\source\repos\Semana 2 clase 1\Semana 2 clase 1\bin\Debug\netcoreapp3.1\Semana 2 clase 1.runtimeconfig.dev.json
+C:\Users\kevin\source\repos\Semana 2 clase 1\Semana 2 clase 1\bin\Debug\netcoreapp3.1\Semana 2 clase 1.dll
+C:\Users\kevin\source\repos\Semana 2 clase 1\Semana 2 clase 1\bin\Debug\netcoreapp3.1\Semana 2 clase 1.pdb
+C:\Users\kevin\source\repos\Semana 2 clase 1\Semana 2 clase 1\obj\Debug\netcoreapp3.1\Semana 2 clase 1.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\Semana 2 clase 1\Semana 2 clase 1\obj\Debug\netcoreapp3.1\Semana 2 clase 1.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Semana 2 clase 1\Semana 2 clase 1\obj\Debug\netcoreapp3.1\Semana 2 clase 1.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Semana 2 clase 1\Semana 2 clase 1\obj\Debug\netcoreapp3.1\Semana 2 clase 1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Semana 2 clase 1\Semana 2 clase 1\obj\Debug\netcoreapp3.1\Semana 2 clase 1.dll
+C:\Users\kevin\source\repos\Semana 2 clase 1\Semana 2 clase 1\obj\Debug\netcoreapp3.1\Semana 2 clase 1.pdb
+C:\Users\kevin\source\repos\Semana 2 clase 1\Semana 2 clase 1\obj\Debug\netcoreapp3.1\Semana 2 clase 1.genruntimeconfig.cache
+C:\Users\Kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1\Semana 2 clase 1\bin\Debug\netcoreapp3.1\Semana 2 clase 1.exe
+C:\Users\Kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1\Semana 2 clase 1\bin\Debug\netcoreapp3.1\Semana 2 clase 1.deps.json
+C:\Users\Kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1\Semana 2 clase 1\bin\Debug\netcoreapp3.1\Semana 2 clase 1.runtimeconfig.json
+C:\Users\Kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1\Semana 2 clase 1\bin\Debug\netcoreapp3.1\Semana 2 clase 1.runtimeconfig.dev.json
+C:\Users\Kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1\Semana 2 clase 1\bin\Debug\netcoreapp3.1\Semana 2 clase 1.dll
+C:\Users\Kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1\Semana 2 clase 1\bin\Debug\netcoreapp3.1\Semana 2 clase 1.pdb
+C:\Users\Kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1\Semana 2 clase 1\obj\Debug\netcoreapp3.1\Semana 2 clase 1.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1\Semana 2 clase 1\obj\Debug\netcoreapp3.1\Semana 2 clase 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1\Semana 2 clase 1\obj\Debug\netcoreapp3.1\Semana 2 clase 1.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1\Semana 2 clase 1\obj\Debug\netcoreapp3.1\Semana 2 clase 1.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1\Semana 2 clase 1\obj\Debug\netcoreapp3.1\Semana 2 clase 1.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1\Semana 2 clase 1\obj\Debug\netcoreapp3.1\Semana 2 clase 1.dll
+C:\Users\Kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1\Semana 2 clase 1\obj\Debug\netcoreapp3.1\Semana 2 clase 1.pdb
+C:\Users\Kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1\Semana 2 clase 1\obj\Debug\netcoreapp3.1\Semana 2 clase 1.genruntimeconfig.cache
